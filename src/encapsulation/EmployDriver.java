@@ -1,4 +1,4 @@
-package Encapsulation;
+package encapsulation;
 import java.util.*;
 public class EmployDriver {
     public static void main(String[] args) {

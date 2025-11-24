@@ -1,4 +1,4 @@
-package Encapsulation;
+package encapsulation;
 
 public class Employ {
     // 'age' is an instance variable (stored in HEAP inside the object)
